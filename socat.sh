@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Socat 管理脚本 - v2.0
-# 版本
+# Socat 管理脚本
+# 版本 v2.0
 # 主目录: /usr/local/socat
 # 日志目录: /usr/local/socat/logs
 
